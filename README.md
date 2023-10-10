@@ -1,1 +1,1 @@
-# Major-Project_Target-Prediction
+# Target Customer Prediction Using Logistic Regression
